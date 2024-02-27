@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+
+}
+
+.shadow{
+    box-shadow: -15px 13px 268px 92px rgba(105,67,133,0.75);
+-webkit-box-shadow: -15px 13px 268px 92px rgba(105,67,133,0.75);
+-moz-box-shadow: -15px 13px 268px 92px rgba(105,67,133,0.75);
+}
